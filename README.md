@@ -18,7 +18,7 @@
 3. 트레일러 재생: 트레일러가 메인으로 재생되어 영화의 트레일러 영상을 쉽게 볼 수 있습니다.
 
 ## 개발 결과물
-<smdb.dataverse.ac.kr>
+<https://smdb.dataverse.ac.kr>
 ![image](https://github.com/kmina02/Dataverse/assets/79454352/2ccd8632-30cf-4e2b-b1bc-f7973244e5b5)
 영화 트레일러를 아카이빙하는 사이트를 배포하였습니다.
 
